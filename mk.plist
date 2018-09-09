@@ -11,20 +11,20 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://192.168.0.105/aisi.ipa</string>
+                   <string>http://192.168.0.105:8080/aisi.ipa</string>
                </dict>
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.server.mk</string>
+               <string>jacob.MyDemo</string>
                <key>bundle-version</key>
-               <string>1.0.0</string>
+               <string>6.6.7.48</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>XX平台</string>
+               <string>鑫鑫国际</string>
                <key>title</key>
-               <string>XX平台</string>
+               <string>鑫鑫国际</string>
            </dict>
        </dict>
    </array>
